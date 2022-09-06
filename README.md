@@ -12,8 +12,8 @@ You may find in each repo the following folders in some combination:
 
 ## Table of Contents
 
-Chapter | Video | Title | Link
---- | --- | --- | ---
+Chapter | Video | Title 
+--- | --- | --- 
 | **00** | | **Introduction**
 | | 01 | Change the game in Mobile iOS Development 
 | | 02 | What you need to know
