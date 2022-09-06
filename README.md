@@ -15,28 +15,28 @@ You may find in each repo the following folders in some combination:
 Chapter | Video | Title | Link
 --- | --- | --- | ---
 | **00** | | **Introduction**
-| | 01 |Change the game in Mobile iOS Development | PlayApp22_01_01
-| | 02 | What you need to know | PlayApp22_01_01
+| | 01 | Change the game in Mobile iOS Development 
+| | 02 | What you need to know
 | **01** | | **Playground Basics** 
-| | 01 | Downloading the App | PlayApp22_01_01
-| | 02 | Templates and the Browser| PlayApp22_01_02
-| | 03 | The Keyboard and Auto Complete| PlayApp22_01_03
+| | 01 | Downloading the App
+| | 02 | [Templates and the Browser](https://github.com/MakeAppPiePublishing/PlayApp22_01_02)
+| | 03 | [The Keyboard and Auto Complete](https://github.com/MakeAppPiePublishing/PlayApp22_01_03)
 | **02** | | **SwiftUI App Setups** 
-| | 01 | The Playground Apps Interface | PlayApp22_02_01
-| | 02 | The File Structure | PlayApp22_02_02
-| | 03 | Change App Settings | PlayApp22_01_01
-| | 04 | Add Capabilities| PlayApp22_01_01
+| | 01 | [The Playground Apps Interface](https://github.com/MakeAppPiePublishing/PlayApp22_02_01)
+| | 02 | [The File Structure](https://github.com/MakeAppPiePublishing/PlayApp22_02_02)
+| | 03 | [Change App Settings](https://github.com/MakeAppPiePublishing/PlayApp22_02_03)
+| | 04 | [Add Capabilities](https://github.com/MakeAppPiePublishing/PlayApp22_02_04)
 | **03** | | **Build a SwiftUI App** 
-| | 01 | Importing Files | PlayApp22_01_01
-| | 02 | Adding files| PlayApp22_01_01
-| | 03 | Working with Xcode | PlayApp22_01_01
-| | 04 | Putting it together| PlayApp22_01_01
-| | 05 | Preview and Run the App| PlayApp22_01_01
+| | 01 | [Importing Files](https://github.com/MakeAppPiePublishing/PlayApp22_03_01)
+| | 02 | [Adding files](https://github.com/MakeAppPiePublishing/PlayApp22_03_02)
+| | 03 | [Working with Xcode](https://github.com/MakeAppPiePublishing/PlayApp22_03_03)
+| | 04 | [Putting it together](https://github.com/MakeAppPiePublishing/PlayApp22_03_04)
+| | 05 | [Preview and Run the App](https://github.com/MakeAppPiePublishing/PlayApp22_03_05)
 | **04** | | **Publishing Your App** 
-| | 01 | Sharing Playgrounds with Friends | PlayApp22_01_01
-| | 02 | Registering as a Developer | PlayApp22_01_01
-| | 03 | Publishing App Settings | PlayApp22_01_01
-| | 04 | Test Flight | PlayApp22_01_01
+| | 01 | [Sharing Playgrounds with Friends](https://github.com/MakeAppPiePublishing/PlayApp22_04_01)
+| | 02 | [Registering as a Developer](https://github.com/MakeAppPiePublishing/PlayApp22_04_02)
+| | 03 | Publishing App Settings 
+| | 04 | Test Flight 
 | **05** | | **Next Steps** 
-|05 | 01 | Next Steps | PlayApp22_01_01
+|05 | 01 | Next Steps
 
